@@ -109,4 +109,35 @@ hr{
     width: 33%;
     border-radius: 2%;
 }
+.email-sec{
+    display: flex;
+    justify-content: center;
+}
+input{
+    padding: 9px 38px;
+    background-color: rgba(128, 128, 128, 0.277);
+    border: none;
+}
+.background{
+    background-color: rgba(222, 184, 135, 0.307);
+    padding: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+   padding-top: 8%; 
+   padding-bottom: 0;   
+}
+footer h2{
+  color: tomato;
+  font-family: algerian;
+  margin-top: -6%;
+}
+footer p{
+    color: white;
+    margin-top: 0;
+    font-size: 13px;
+}
 
