@@ -3,6 +3,10 @@ body{
     margin: 0;
     padding: 0;
 }
+section{
+    
+    margin-bottom: 10%;
+}
 .sec-one{
     background-image: url(images/donation2.jpg);
     width: 100%;
@@ -50,11 +54,11 @@ body{
 }
 .sec-two p{
     font-size: 15px;
-   
     color: gray;
 }
 hr{
     width:50%;
+    color:gray;
 }
 .list{
     display: flex;
@@ -76,3 +80,33 @@ hr{
     border-radius: 5px;
     
 }
+.list div p{
+    font-size: 15px;
+    color: gray;
+    text-align: justify;
+}
+#div-one{
+    background-color: #83d3dc4e;
+    padding:30px;
+    margin-right: 2%;
+    margin-left: 2%;
+    width: 33%;
+    border-radius: 2%;
+    
+}
+#div-two{
+    background-color: #dd7f7f85;
+    padding:30px;
+    margin-right: 2%;
+    width: 33%;
+    border-radius: 2%;
+
+}
+#div-three{
+    background-color:rgb(235, 220, 201);
+    padding:30px;
+    margin-right: 2%;
+    width: 33%;
+    border-radius: 2%;
+}
+
