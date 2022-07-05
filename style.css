@@ -80,6 +80,19 @@ hr{
     border-radius: 5px;
     
 }
+.list img{
+    height: 30%;
+    width: 40%;
+}
+.div-dec{
+    background-color: #9299e64e;
+    padding:30px;
+    margin-right: 2%;
+    margin-left: 2%;
+    width: 33%;
+    border-radius: 2%;
+    box-shadow: 10px 10px 30px gray;
+}
 .list div p{
     font-size: 15px;
     color: gray;
@@ -128,7 +141,7 @@ footer{
     background-color: black;
     text-align: center;
    padding-top: 8%; 
-   padding-bottom: 0;   
+     
 }
 footer h2{
   color: tomato;
